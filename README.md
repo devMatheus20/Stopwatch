@@ -1,10 +1,10 @@
-# Fortune Cookie
+# Stopwatch
 
 <img id="top" src="src/assets/cronometro.gif" width="700px" alt="Foto apresentando o projeto">
 
 > O site é um Cronômetro virtual
 
-Confira a aplicação: 
+Confira a aplicação: https://stopwattch.netlify.app/
 
 ## :rocket: Tecnologias ##
 
